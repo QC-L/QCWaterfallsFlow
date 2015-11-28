@@ -40,6 +40,8 @@
     [self handleData];
     // 创建CollectionView
     [self createCollectionView];
+    
+    
 
 }
 
